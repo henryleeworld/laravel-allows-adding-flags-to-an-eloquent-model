@@ -1,4 +1,4 @@
-# Laravel 10 Eloquent 模型允許加入旗標
+# Laravel 11 Eloquent 模型允許加入旗標
 
 引入 spatie 的 laravel-model-flags 套件來擴增 Eloquent 模型允許加入旗標，方便無需使用遷移來新增額外的欄位，而能快速將流程、更新、遷移等的狀態儲存到 Eloquent 模型中。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/xLvNV7B.png)
+![](https://i.imgur.com/SSt8cOs.png)
 > 確認使用者更新的狀態
